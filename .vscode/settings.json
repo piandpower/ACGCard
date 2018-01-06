@@ -1,0 +1,9 @@
+{
+	"typescript.tsc.autoDetect": "off",
+	"files.exclude": {
+		"J:/WorkFile/Ue4/Projects/ACGCard/ACGCard/.vscode": true,
+		"J:/WorkFile/Ue4/Projects/ACGCard/ACGCard/Content": true,
+		"J:/WorkFile/Ue4/Projects/ACGCard/ACGCard/Intermediate": true,
+		"J:/WorkFile/Ue4/Projects/ACGCard/ACGCard/Saved": true
+	}
+}
