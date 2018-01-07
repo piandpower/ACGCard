@@ -14,6 +14,11 @@
 		{
 			"Name": "HoudiniEngine",
 			"Enabled": false
+		},
+		{
+			"Name": "JSONParser",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8eda577c5b594d6b990f91b8dec8a014"
 		}
 	]
 }
