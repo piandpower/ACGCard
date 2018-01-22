@@ -1,7 +1,11 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "MiscFunLib.h"
+#include "Test.h"
 
+Test::Test()
+{
+}
 
-
-
+Test::~Test()
+{
+}
